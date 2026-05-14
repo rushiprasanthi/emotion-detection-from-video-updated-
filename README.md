@@ -185,7 +185,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Rushi Prasanthi**
+**Parvatham Bhavanarushi**
 
 Feel free to contribute, report issues, or suggest improvements!
 
